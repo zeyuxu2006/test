@@ -1,6 +1,7 @@
 #include<iostream>
 #include <list>
 using namespace std;
+////
 int main()
 {
 	int i,n,w,a,count=0;
